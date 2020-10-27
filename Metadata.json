@@ -1,0 +1,20 @@
+{
+    "Author": "Sujay Talasila [MSFT]",
+    "ContentSize": 16712,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/mount-volumes-on-storsimple-device-after-failover/master/Mount-Volumes-After-Failover.ps1",
+    "DownloadCount": 1610,
+    "Id": "Mount-volumes-on-0f314461",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 590,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-8-25T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook creates a script and stores it in an Azure storage account. It then uses the custom VM script extension to run the script from the VM. This script will connect to the iSCSI target and mount the volumes after the failover using ASR (Azure Site Recovery) recovery plan.",
+    "Title": "Mount volumes on StorSimple device after Failover",
+    "UpdatedDate": "2017-10-4T00:00:00",
+    "Url": "https://github.com/azureautomation/mount-volumes-on-storsimple-device-after-failover",
+    "UserTags": "Disaster Recovery, Azure Site Recovery, StorSimple"
+}
